@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Artsiom</h1>
 
-- 🔭 I’m currently working on [Voyage](https://github.com/voyageglobal)
+- 🔭 I’m currently working on my pet project called [Voyage](https://github.com/voyageglobal). This is the app gathering a community of active travelers who want to share their experiences about trips.
 
-- 🌱 I’m currently learning **NodeJS, NestJS, AWS, PostgresDB**
+- 🌱 I’m currently learning backend development using the NodeJS platform (**NodeJS, NestJS, AWS, PostgresDB**) and of course, keep developing my frontend skills constantly.
 
-- 👯 I’m looking to collaborate on [Voyage](https://github.com/voyageglobal)
+<!-- - 👯 I’m looking to collaborate on [Voyage](https://github.com/voyageglobal) -->
 
-- 🤝 I’m looking for help with [Voyage](https://github.com/voyageglobal)
+<!-- - 🤝 I’m looking for help with [Voyage](https://github.com/voyageglobal) -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/adadychanka](https://github.com/adadychanka)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/adadychanka](https://github.com/adadychanka) -->
 
-- 📝 I regularly write articles on [https://www.instagram.com/tema4dev/](https://www.instagram.com/tema4dev/)
+<!-- - 📝 I regularly write articles on [https://www.instagram.com/tema4dev/](https://www.instagram.com/tema4dev/) -->
 
-- 💬 Ask me about **React, zoo around React, or web development in general**
+- 💬 Ask me about **React, zoo around React, or web development, in general,**, I would be happy to share my knowledge and experience to grow together.
 
 - 📫 How to reach me: **tema4dev@gmail.com** or just write me to DM on Instagram [@tema4dev](https://www.instagram.com/tema4dev/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/artsiom-dadychanka-551741150/](https://www.linkedin.com/in/artsiom-dadychanka-551741150/)
+- 📄 Know about my experiences [/linkedin/artsiom-dadychanka](https://www.linkedin.com/in/artsiom-dadychanka-551741150/)
 
 - ⚡ Fun fact **Love hiking 🚶🏻‍♂️‍➡️ and techno music 💽**
 
