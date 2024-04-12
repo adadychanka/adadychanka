@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning backend development using the NodeJS platform (**NodeJS, NestJS, AWS, PostgresDB**) and of course, keep developing my frontend skills constantly.
 
-<!-- - 👯 I’m looking to collaborate on [Voyage](https://github.com/voyageglobal) -->
+- 👯 I’m looking to collaborate on building a strong, experienced and at the same time cozy, and safe frontend community and be happy to the frontend developers of any level there
 
 <!-- - 🤝 I’m looking for help with [Voyage](https://github.com/voyageglobal) -->
 
@@ -12,7 +12,7 @@
 
 <!-- - 📝 I regularly write articles on [https://www.instagram.com/tema4dev/](https://www.instagram.com/tema4dev/) -->
 
-- 💬 Ask me about **React, zoo around React, or web development, in general,**, I would be happy to share my knowledge and experience to grow together.
+- 💬 Ask me about **React, zoo around React, or web development** I would be happy to share my knowledge and experience to grow together.
 
 - 📫 How to reach me: **tema4dev@gmail.com** or just write me to DM on Instagram [@tema4dev](https://www.instagram.com/tema4dev/)
 
@@ -240,11 +240,11 @@
   </a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/tema4dev">
+<h3 align="center">Support Me 💰</h3>
+<p align="center">
+  <a align="center" href="https://www.buymeacoffee.com/tema4dev">
     <img
-      align="left"
+      align="center"
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
       height="50"
       width="210"
