@@ -12,7 +12,7 @@
 
 <!-- - 📝 I regularly write articles on [https://www.instagram.com/tema4dev/](https://www.instagram.com/tema4dev/) -->
 
-- 💬 Ask me about **React, zoo around React, or web development** I would be happy to share my knowledge and experience to grow together.
+- 💬 Ask me about **React stack or web development** I would be happy to share my knowledge and experience to grow together.
 
 - 📫 How to reach me: **tema4dev@gmail.com** or just write me to DM on Instagram [@tema4dev](https://www.instagram.com/tema4dev/)
 
