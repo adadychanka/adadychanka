@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **tema4dev@gmail.com** or just write me to DM on Instagram [@tema4dev](https://www.instagram.com/tema4dev/)
 
-- 📄 Know about my experiences [/linkedin/artsiom-dadychanka](https://www.linkedin.com/in/artsiom-dadychanka-551741150/)
+- 📄 Know about my experiences [/linkedin/adadychanka](https://www.linkedin.com/in/adadychanka/)
 
 - ⚡ Fun fact **Love hiking 🚶🏻‍♂️‍➡️ and techno music 💽**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/artsiom-dadychanka-551741150" target="blank"
+  <a href="https://linkedin.com/in/adadychanka/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
